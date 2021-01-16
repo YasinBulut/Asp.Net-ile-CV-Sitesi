@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DBCVEntityModelStoreContainer" CdmEntityContainer="DBCVEntityEntities">
+    <EntitySetMapping Name="Tbl_Adres">
+      <EntityTypeMapping TypeName="DBCVEntityModel.Tbl_Adres">
+        <MappingFragment StoreEntitySet="Tbl_Adres">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TELEFON" ColumnName="TELEFON" />
+          <ScalarProperty Name="MAIL" ColumnName="MAIL" />
+          <ScalarProperty Name="ADRES" ColumnName="ADRES" />
+          <ScalarProperty Name="KONUM" ColumnName="KONUM" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Çalışmalarım">
+      <EntityTypeMapping TypeName="DBCVEntityModel.Tbl_Çalışmalarım">
+        <MappingFragment StoreEntitySet="Tbl_Çalışmalarım">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ADRES" ColumnName="ADRES" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Hakkında">
+      <EntityTypeMapping TypeName="DBCVEntityModel.Tbl_Hakkında">
+        <MappingFragment StoreEntitySet="Tbl_Hakkında">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="BILGILER" ColumnName="BILGILER" />
+          <ScalarProperty Name="EGITIM" ColumnName="EGITIM" />
+          <ScalarProperty Name="ISDENEYIMLERI" ColumnName="ISDENEYIMLERI" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_iletisim">
+      <EntityTypeMapping TypeName="DBCVEntityModel.Tbl_iletisim">
+        <MappingFragment StoreEntitySet="Tbl_iletisim">
+          <ScalarProperty Name="KONU" ColumnName="KONU" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ADSOYAD" ColumnName="ADSOYAD" />
+          <ScalarProperty Name="MAIL" ColumnName="MAIL" />
+          <ScalarProperty Name="MESAJ" ColumnName="MESAJ" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Yetenekler">
+      <EntityTypeMapping TypeName="DBCVEntityModel.Tbl_Yetenekler">
+        <MappingFragment StoreEntitySet="Tbl_Yetenekler">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="YETENEK" ColumnName="YETENEK" />
+          <ScalarProperty Name="DERECE" ColumnName="DERECE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Admin">
+      <EntityTypeMapping TypeName="DBCVEntityModel.Tbl_Admin">
+        <MappingFragment StoreEntitySet="Tbl_Admin">
+          <ScalarProperty Name="SIFRE" ColumnName="SIFRE" />
+          <ScalarProperty Name="KULLANICIAD" ColumnName="KULLANICIAD" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,12 @@
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Entity Framework Linq ile Dinamik Cv Sitesi\Entity ile Dinamik CV Sitesi\CVEntityProje\bin\CVEntityProje.dll.config
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Entity Framework Linq ile Dinamik Cv Sitesi\Entity ile Dinamik CV Sitesi\CVEntityProje\bin\CVEntityProje.dll
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Entity Framework Linq ile Dinamik Cv Sitesi\Entity ile Dinamik CV Sitesi\CVEntityProje\bin\CVEntityProje.pdb
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Entity Framework Linq ile Dinamik Cv Sitesi\Entity ile Dinamik CV Sitesi\CVEntityProje\bin\EntityFramework.dll
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Entity Framework Linq ile Dinamik Cv Sitesi\Entity ile Dinamik CV Sitesi\CVEntityProje\bin\EntityFramework.SqlServer.dll
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Entity Framework Linq ile Dinamik Cv Sitesi\Entity ile Dinamik CV Sitesi\CVEntityProje\bin\EntityFramework.xml
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Entity Framework Linq ile Dinamik Cv Sitesi\Entity ile Dinamik CV Sitesi\CVEntityProje\bin\EntityFramework.SqlServer.xml
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Entity Framework Linq ile Dinamik Cv Sitesi\Entity ile Dinamik CV Sitesi\CVEntityProje\obj\Release\CVEntityProje.csprojAssemblyReference.cache
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Entity Framework Linq ile Dinamik Cv Sitesi\Entity ile Dinamik CV Sitesi\CVEntityProje\obj\Release\CVEntityProje.csproj.CoreCompileInputs.cache
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Entity Framework Linq ile Dinamik Cv Sitesi\Entity ile Dinamik CV Sitesi\CVEntityProje\obj\Release\CVEntityProje.csproj.CopyComplete
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Entity Framework Linq ile Dinamik Cv Sitesi\Entity ile Dinamik CV Sitesi\CVEntityProje\obj\Release\CVEntityProje.dll
+D:\Eğitimlerim\Youtube -Murat Yücedağ\Asp.Net Entity Framework Linq ile Dinamik Cv Sitesi\Entity ile Dinamik CV Sitesi\CVEntityProje\obj\Release\CVEntityProje.pdb
